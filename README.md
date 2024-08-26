@@ -13,6 +13,8 @@
 - Terminar Turno: Permite a los jugadores elegir una categoría para puntuar y cerrar el turno.
 - Actualización de Puntajes: Los puntajes se actualizan automáticamente en función de la categoría seleccionada.
 - Finalización del Juego: El juego termina después de un número determinado de turnos, y se muestra el ganador basado en los puntajes acumulados.
+## Link del Server
+- https://lagenerala.netlify.app/ 
 
 ## Integrantes: 
 - Federico Lezcano
